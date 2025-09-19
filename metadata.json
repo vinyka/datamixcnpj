@@ -1,0 +1,5 @@
+{
+  "name": "Consulta de CNPJ",
+  "description": "Uma aplicação web para consultar informações de empresas brasileiras a partir do seu CNPJ, utilizando a API pública OpenCNPJ.",
+  "requestFramePermissions": []
+}
